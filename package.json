@@ -1,6 +1,6 @@
 {
   "name": "is-web-crawler",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A light weight JS library to check if a user agent is a web crawler.",
   "main": "dist/index.js",
   "devDependencies": {
